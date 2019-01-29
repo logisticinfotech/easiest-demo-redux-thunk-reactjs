@@ -16,5 +16,4 @@ Run `npm start` for a dev server. Navigate to `http://localhost:3000/`. The app 
 
 ## Further help
 
-Checkout full blog [here].
-URL
+Checkout full blog [here](https://www.logisticinfotech.com/blog/learn-redux-thunk-demo/).
