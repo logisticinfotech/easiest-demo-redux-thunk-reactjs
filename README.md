@@ -1,6 +1,6 @@
-# Easiest React Redux Demo with little UI state managment like tab, input, select, checkbox, radio
+# Easiest Redux Thunk example with Movie db api call and little UI state managment like tab.
 
-Purpose of this demo is to understand redux-thunk easily. You can find step by step guide here to understand this demo properly.
+Purpose of this demo is to understand redux-thunk easily. You can find step by step guide [here](https://www.logisticinfotech.com/blog/learn-redux-thunk-demo/) to understand this demo properly.
 
 ## Here is how it looks
 Here is how it looks
